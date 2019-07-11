@@ -13,3 +13,7 @@ All tools used:
 * A video editor to stitch all the animations together.
 
 **Disclaimer**: This was my first time working with gganimate (and working around a few bugs which surfaced), as a result my R code is messier than my typical R code.
+
+
+Result:
+![](HorseorFrog.mp4)
