@@ -16,4 +16,4 @@ All tools used:
 
 
 Result:
-![](HorseorFrog.mp4)
+Check out HorseorFrog.mp4
